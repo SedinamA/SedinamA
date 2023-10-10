@@ -8,7 +8,7 @@
 
 - <b>Active Directory(AD) Labs</b>
   - [Active Directory Setup](https://github.com/SedinamA/AD-setup)
-  - [Directory usage and File Sharing ](insert url)
+  - [Directory usage and File Sharing ](https://github.com/)
  
     
 <h2>👨‍💻Certification👨‍💻:</h2>

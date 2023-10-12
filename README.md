@@ -14,6 +14,7 @@
 <h2>👨‍💻Certification👨‍💻:</h2>
 
   - [Google Data Analytics Certificate](https://www.credly.com/badges/bbb76213-403c-4e6d-80e7-b96b21221c8f)
+  - [IT Professional Certificate](https://i.imgur.com/v7A5mSX.png)
  
 
   

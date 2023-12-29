@@ -17,7 +17,7 @@
 
 <h2>👨‍💻Certification👨‍💻:</h2>
 
-  - [Google Cybersecurity](https://www.credly.com/badges/bbb76213-403c-4e6d-80e7-b96b21221c8f](https://www.coursera.org/account/accomplishments/professional-cert/NBETXRNVGRZ8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)https://www.coursera.org/account/accomplishments/professional-cert/NBETXRNVGRZ8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+  - [Google Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/NBETXRNVGRZ8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
   - [Google Data Analytics Certificate](https://www.credly.com/badges/bbb76213-403c-4e6d-80e7-b96b21221c8f)
   - [IT Professional Certificate](https://i.imgur.com/v7A5mSX.png)
  

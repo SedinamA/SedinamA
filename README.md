@@ -1,4 +1,4 @@
-<h1>Hello, I’m  Sedinam (Sed), a Security Professional
+<h1>Hello, I’m  Sedinam (Sed), a Cybersecurity Professional
 
 <h2>👨‍💻Cybersecurity Projects:👨‍💻</h2>
 

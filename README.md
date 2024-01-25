@@ -4,8 +4,8 @@
 
 - <b>Vulnerability-Management lab</b>
   - [Vulnerability-Management](https://github.com/SedinamA/Vulnerability-Management)
-- <b>Honeynet-SOC lab</b>
-  - [Honeynet-SOC](https://github.com/SedinamA/SOC-Honeynet-Setup/tree/main)
+- <b>SOC-Honeynet lab</b>
+  - [SOC-Honeynet](https://github.com/SedinamA/SOC-Honeynet-Setup/tree/main)
 
 - <b>Active Directory(AD) Labs</b>
   - [Active Directory Setup](https://github.com/SedinamA/AD-setup)

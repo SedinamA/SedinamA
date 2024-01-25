@@ -1,6 +1,6 @@
 <h1>Hello, I’m  Sedinam (Sed), a Cybersecurity Professional
 
-<h2>👨‍💻Cybersecurity Projects:👨‍💻</h2>
+<h2>👨‍💻Cybersecurity Projects:👨‍💻</h2> 
 
 - <b>Vulnerability-Management lab</b>
   - [Vulnerability-Management](https://github.com/SedinamA/Vulnerability-Management)

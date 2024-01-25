@@ -19,6 +19,7 @@
 
 <h2>👨‍💻Certification👨‍💻:</h2>
 
+  - [Security+](https://www.credly.com/badges/e1cb1dfa-c1f5-49c0-9e95-9c17db7edc04/public_url)
   - [Google Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/NBETXRNVGRZ8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
   - [Google Data Analytics Certificate](https://www.credly.com/badges/bbb76213-403c-4e6d-80e7-b96b21221c8f)
   - [IT Professional Certificate](https://i.imgur.com/v7A5mSX.png)
